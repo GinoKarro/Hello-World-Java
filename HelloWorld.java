@@ -6,10 +6,3 @@ class HelloWorld {
     }
 }
 
-
-
-
-
-
-
-
